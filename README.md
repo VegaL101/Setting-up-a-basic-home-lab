@@ -18,8 +18,7 @@ Downlaod and install VirtualBox.
 
 VirtualBox allows you create and run multiple virtual machines (VMs) simultaneously on a single physical computer. 
 
-![home lab](![virtual box](https://github.com/user-attachments/assets/b3395578-653e-4109-b868-6272013de321)
-)
+![home lab](![virtual box](https://github.com/user-attachments/assets/b3395578-653e-4109-b868-6272013de321))
 
 
 Describing the permissions string
