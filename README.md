@@ -19,7 +19,7 @@ Downlaod and install VirtualBox.
 VirtualBox allows you create and run multiple virtual machines (VMs) simultaneously on a single physical computer. 
 
 ![permissions portfolio](![virtual box](https://github.com/user-attachments/assets/e119ff74-fa15-488a-b628-1c6dc86badb2)
-)
+
 
 Describing the permissions string
 The permissions string decides who is allowed to read ,write and execute files in the projects directory. The characters r=read, w=write, and x=execute are used as the permissions as above.
