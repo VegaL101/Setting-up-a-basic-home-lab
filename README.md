@@ -16,9 +16,10 @@ The objective of this project is to set up a basic home lab so that you may test
 Step 1:
 Downlaod and install VirtualBox.
 
-The image below displays the linux commands I used to reach the projects directories and display all the files in that directory including any hidden files using the “ls -la” command. The command also displayed all the permissions (ten character string in the first column) of the project files. 
+VirtualBox allows you create and run multiple virtual machines (VMs) simultaneously on a single physical computer. 
 
-![permissions portfolio](https://github.com/VegaL101/File-permissions-lab./assets/166334918/cc70e803-e0ed-4033-b4ad-d8bed4f275d4)
+![permissions portfolio](![virtual box](https://github.com/user-attachments/assets/e119ff74-fa15-488a-b628-1c6dc86badb2)
+)
 
 Describing the permissions string
 The permissions string decides who is allowed to read ,write and execute files in the projects directory. The characters r=read, w=write, and x=execute are used as the permissions as above.
