@@ -1,19 +1,20 @@
 # Setting-up-a-basic-home-lab
 
 ## Objective
-The goal of this project is to update and change permissions of files project_k.txt, hidden file .project_x.txt, and directory drafts so that permissions can reflect the proper levels of authorization.
+The objective of this project is to set up a basic home lab so that you may test tools, simulate attacks, and analyze malware safely.
 
 
 ### Skills Learned
 
-- Learned how to display contents of a directory including hidden files.
-- Properly learned to adjust permissions for both conventional and hidden files.
-- Proficiency in modifying permissions for both regular and hidden directories.
+- Learned how to install virtual machines such as Ubuntu and Kali Linux .
+- Learned how to take snapshots and create clones of your virtual machines.
+- Learned how to update and update Virtual Machines.
+- Learned How to appropriatley configure network settings on virtualBox depending on your needs.
 
 ## Steps
 
 Step 1:
-Check file and directory details.
+Downlaod and install VirtualBox.
 
 The image below displays the linux commands I used to reach the projects directories and display all the files in that directory including any hidden files using the “ls -la” command. The command also displayed all the permissions (ten character string in the first column) of the project files. 
 
