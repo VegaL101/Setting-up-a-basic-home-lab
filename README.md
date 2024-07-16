@@ -39,12 +39,12 @@ Step 3:
 Create your virtual machihnes.
 
 Here, we will begin creating your virtual machines. first, when you open virtual box you should be presented with the screen below.
-you will then click on machine on the top left corner and then click new to get started.
+you will then click on "machine" on the top left corner and then click "new" to get started.
 
 ![virtualbox menu](https://github.com/user-attachments/assets/cbe41dc7-3f33-4570-b570-b63cc8b8829d)
 
 Then, the screen below will pop up. Here, you can name your virtual machine and select the ISO image you want to use for that VM.
-Once you are done with that you can proceed and click next.
+Once you are done with that you can proceed and click "next".
 
 ![vm creator](https://github.com/user-attachments/assets/3e8aa435-d0b0-400a-9a3e-37543320e72e)
 
@@ -52,10 +52,13 @@ Next you can choose the hardware for your VM such as memory and processors. 1 CP
 
 ![vm creator 2](https://github.com/user-attachments/assets/dc7b732e-261d-4467-a3cc-de3a881088f4)
 
-Once you've made your  hardware selections and clicked "Next," you can now configure your virtual hardisk (storage thats tied to your VM). You have the option to configure the size of the virtual hard disk, utilize an existing virtual hard disk file (which can be shared with another VM), or choose not to add a virtual hard disk.
+Once you've made your hardware selections, you can now configure your virtual hardisk (storage thats tied to your VM). You have the option to configure the size of the virtual hard disk, utilize an existing virtual hard disk file (which can be shared with another VM), or choose not to add a virtual hard disk.
 
 ![vm creator 3](https://github.com/user-attachments/assets/9f9d58f3-a522-4190-8112-bfa7c0198ced)
 
+Once you have completed all of the above you will reach a summary of the VM settings. Here you can review your choices and finalize them. Once you click  
+
+![vm creator 4](https://github.com/user-attachments/assets/565885f9-27c7-4645-835d-0d12f7ddefe8)
 
 
 
