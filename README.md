@@ -35,16 +35,13 @@ Kali-Linux:
 
 for Kali-Linux you will need to choose the installer Version.
 
-
-
-![permissions2](https://github.com/VegaL101/File-permissions-lab./assets/166334918/64441a6d-b114-499f-a53d-e3c7a2745114)
-
 Step 3:
-Change file permissions on a hidden file.
+Create your virtual machihnes.
 
-Here, I change the permissions of a hidden file that has been archived named .project_x.txt. I am able to determine if a file is hidden or not because a hidden file begins with a period (.). Once again I entered the chmod command here to change multiple permissions at once. But this time I also added group reading permissions (g+r) permissions instead of just taking away permission (u-w,g-w). I still left reading permissions in case the file still needs to be viewed for any reason.
+Here, we will begin creating your virtual machines. first, when you open virtual box you should be presented with the screen below. 
 
-![permissions3](https://github.com/VegaL101/File-permissions-lab./assets/166334918/1f4a4e9c-20e5-43f6-80c9-53c4e8e32158)
+![virtualbox menu](https://github.com/user-attachments/assets/d86b24e7-5b45-47f9-a39c-05c7cfcf68b7)
+
 
 Step 4:
 Change directory permissions.
