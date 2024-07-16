@@ -36,7 +36,7 @@ Kali-Linux:
 for Kali-Linux you will need to choose the installer Version.
 ##
 Step 3:
-Create your virtual machihnes.
+Create your virtual machines.
 
 Here, we will begin creating your virtual machines. first, when you open virtual box you should be presented with the screen below.
 you will then click on "machine" on the top left corner and then click "new" to get started.
