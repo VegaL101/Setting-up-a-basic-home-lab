@@ -70,10 +70,12 @@ This will ensure that your system's package lists are updated (sudo apt update).
 
 Once you have updated your VM, it's imprtant to create your first snapshot to establish a baseline. Baselines are pivotal for monitoring performance, troubleshooting issues, managing changes effectively, and serving various other purposes. They ensure stability and efficiency for your VM.
 To take a snapshot you are gonna have to Select your desired VM and locate the "Take" button at the top, resembling a camera icon.
-Click on this button. Give your snapshot a name, typically something like "baseline 1," and a brief description if needed.Click "Ok" to confirm and complete the snapshot creation process.
-By taking this snapshot, you capture the current state of your VM post-update. This snapshot serves as a baseline reference, enabling you to revert to this stable state if necessary.
+Click on this button.
 
 ![baseline](https://github.com/user-attachments/assets/9ccdb6f8-0942-41be-b834-e20c07a6ffed)
+
+ Give your snapshot a name, typically something like "baseline 1," and a brief description if needed.Click "Ok" to confirm and complete the snapshot creation process.
+By taking this snapshot, you capture the current state of your VM post-update. This snapshot serves as a baseline reference, enabling you to revert to this stable state if necessary.
 
 Step 5:
 Configure your network settings
