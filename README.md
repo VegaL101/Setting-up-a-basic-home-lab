@@ -48,10 +48,18 @@ Once you are done with that you can proceed and click next.
 
 ![vm creator](https://github.com/user-attachments/assets/3e8aa435-d0b0-400a-9a3e-37543320e72e)
 
-After clicking next, you can configure your virtual hardisk (storage thats tied to your VM). You can configure the size of the virtual hard disk, use an existing virtual hard disk file (sharing it with the hard disk of another VM), or not add one at all. 
+Next you can choose the hardware for your VM such as memory and processors. 1 CPU is normally more than enough for a basic home lab. When creating a virtual machine, it's important to consider that it will utilize resources from your host machine to operate efficiently. Therefore, be considerate of your host machine. 
+
+![vm creator 2](https://github.com/user-attachments/assets/dc7b732e-261d-4467-a3cc-de3a881088f4)
+
+Once you've made your  hardware selections and clicked "Next," you can now configure your virtual hardisk (storage thats tied to your VM). You have the option to configure the size of the virtual hard disk, utilize an existing virtual hard disk file (which can be shared with another VM), or choose not to add a virtual hard disk.
 
 ![vm creator 3](https://github.com/user-attachments/assets/9f9d58f3-a522-4190-8112-bfa7c0198ced)
-<br>Here you
+
+
+
+
+
 
 
 
