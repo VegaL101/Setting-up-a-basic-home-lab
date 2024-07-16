@@ -18,24 +18,21 @@ Downlaod and install VirtualBox.
 
 VirtualBox allows you create and run multiple virtual machines (VMs) simultaneously on a single physical computer. Clicking the image below will you take you to their website so you may download and install the software yourself 
 
-<a href="https://www.virtualbox.org/wiki/Downloads">![virtual box](https://github.com/user-attachments/assets/b3395578-653e-4109-b868-6272013de321))<a/>
+<a href="https://www.virtualbox.org/wiki/Downloads">![virtual box](https://github.com/user-attachments/assets/b3395578-653e-4109-b868-6272013de321))</a>
 
 
-Describing the permissions string
+You will wanna pick the correct platform depending on your system. Once you have downloaded virtualBox into your system you will proceed to install the application as you would for any other application. 
 The permissions string decides who is allowed to read ,write and execute files in the projects directory. The characters r=read, w=write, and x=execute are used as the permissions as above.
 
-For the first character either directory (d) or a hyphen (-) is used. If a hyphen is the first character will mean that it's a regular file and if d would be directory.
-
-After that, characters 2, 3, and 4 are the user permissions.  Which will contain characters r, w, x or a hyphen depending on the permissions. A hyphen (-) in characters 2-10 means the permission is not granted.
-
-Then, characters 5, 6, and 7 are the group permissions. Which will contain characters r, w, x or a hyphen depending on the permissions. A hyphen (-) in characters 2-10 means the permission is not granted.
-
-Lastly, characters 8, 9 ,10 represent permissions for other. For any other users on the system aside from user and group. Which will contain characters r, w, x or a hyphen depending on the permissions. A hyphen (-) in characters 2-10 means the permission is not granted.
-
 Step 2:
-Change file permissions.
+Download The Ubuntu and Kali-Linux ISO image.
 
-Below, I changed permissions in the “other” group of characters in file “project_k.txt” and took away the write (w) permissions as that can pose a security risk. I did this by inputting the chmod command with the first argument (o-w) which will take away permissions from the second argument which is the file you want permissions changed.
+A ISO image is typically used for installing a operating system in a computer. We will be using the Ubuntu and the Kali-Linux ISO image to create virtual machines with these operating systems. The images below will direct you to their respective websites, where you can download them.
+
+<a href="https://ubuntu.com/download/desktop#how-to-install">![ubuntu](https://github.com/user-attachments/assets/65f0b722-3d8d-42ad-9046-a5c9157ead43)</a>
+
+
+below, I changed permissions in the “other” group of characters in file “project_k.txt” and took away the write (w) permissions as that can pose a security risk. I did this by inputting the chmod command with the first argument (o-w) which will take away permissions from the second argument which is the file you want permissions changed.
 
 ![permissions2](https://github.com/VegaL101/File-permissions-lab./assets/166334918/64441a6d-b114-499f-a53d-e3c7a2745114)
 
