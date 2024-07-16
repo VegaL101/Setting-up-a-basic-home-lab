@@ -88,14 +88,13 @@ In this step, we will configure the network settings to suit your needs. As an e
 
 Next we will configure network settings for your desired virtual machine (VM), follow these steps:
 Click on the VM you want to configure, then navigate to "Settings" and select "Network."
-In the Network settings,choose the dropdown menu labeled "Attached to". Click on it and select "NAT Network" to change your VM's network configuration to NAT Network.
-Next, click on the dropdown menu labeled "Name" and choose The NAT Network you created earlier .
-By default, VMs are set to use NAT, which is good for basic tasks like testing tools. Both NAT and NAT Network configurations provide internet access through the host machine's network connection.
-However, NAT Network additionally allows VMs to communicate with each other, which can be useful in certain scenarios.
+In the Network settings,choose the dropdown labeled "Attached to". Go down it and select "NAT Network" to change your VM's network to a NAT Network.
+Now, on the dropdown menu labeled "Name" you choose The NAT Network you created earlier.
 
 ![kali nat network](https://github.com/user-attachments/assets/a5e6ad43-ec99-4aac-b4de-023b51d2b4ff)
 
-One thing to note is that using these network settings for analyzing malware is not recommended, as it can potentially harm your host machine. For safe analysis, it is recommended to use an "Internal Network" or set the VM to "Not Attached" (no network) to isolate it completely.
+By default, VMs are set to use NAT, which is good for basic tasks like testing tools. Both NAT and NAT Network configurations provide internet access through the host machine's network connection.
+However, NAT Network additionally allows VMs to communicate with each other. <br>One thing to note is that using these network settings for analyzing malware is not recommended, as it can potentially harm your host machine. For safe analysis, it is recommended to use an "Internal Network" or set the VM to "Not Attached" (no network) to isolate it completely.
 
 ## Summary
 Multiple permissions have been changed to reflect the level of authority the organization intended for. Firstly, I checked file permissions with  ls -la which showed a list of permissions before any changes were made which was needed so that updates to permissions can be made.  Write permissions for other on file project_k.txt have been taken away.  Write permissions for user and group have been removed and read permissions for group have been added for hidden file .project_x.txt. Execute permissions for group have been taken away from directory drafts so that only researcher2 has access to it.
