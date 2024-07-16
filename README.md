@@ -7,7 +7,7 @@ The objective of this project is to set up a basic home lab so that you may test
 ### Skills Learned
 
 - Learned how to install virtual machines such as Ubuntu and Kali Linux .
-- Learned how to take snapshots and create clones of your virtual machines.
+- Learned how to take snapshots so it may serve as a baseline.
 - Learned how to update and update Virtual Machines.
 - Learned How to appropriatley configure network settings on virtualBox depending on your needs.
 
@@ -67,12 +67,18 @@ This will ensure that your system's package lists are updated (sudo apt update).
 
 ![ubuntu update](https://github.com/user-attachments/assets/addd36ff-4cab-41b6-a78b-c987533dd2e6)
 
+
+Once you have updated your VM, it's imprtant to create your first snapshot to establish a baseline. Baselines are pivotal for monitoring performance, troubleshooting issues, managing changes effectively, and serving various other purposes. They ensure stability and efficiency for your VM.
+To take a snapshot you are gonna have to Select your desired VM and locate the "Take" button at the top, resembling a camera icon.
+Click on this button. Give your snapshot a name, typically something like "baseline 1," and a brief description if needed.Click "Ok" to confirm and complete the snapshot creation process.
+By taking this snapshot, you capture the current state of your VM post-update. This snapshot serves as a baseline reference, enabling you to revert to this stable state if necessary.
+
+![baseline](https://github.com/user-attachments/assets/9ccdb6f8-0942-41be-b834-e20c07a6ffed)
+
 Step 5:
 Configure your network settings
 
-
 In this step, we will configure the network settings to suit your needs. As an example, we will set up a NAT network.
-
  first, click on "File," then navigate to "Tools" and select "Network Manager." Choose "NAT Network" from the options presented. Your screen should resemble the image depicted below. Next, right-click to create a new NAT Network configuration. This setup allows you to tailor network settings to your specific needs, ensuring your virtual environment is configured appropriately.
 
 ![networks menu](https://github.com/user-attachments/assets/a8c22ba9-8eb6-46c9-bc4a-613791f7bb04)
