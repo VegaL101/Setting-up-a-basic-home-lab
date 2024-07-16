@@ -19,7 +19,7 @@ Downlaod and install VirtualBox.
 VirtualBox allows you create and run multiple virtual machines (VMs) simultaneously on a single physical computer. Clicking the image below will direct you to their website so you may download and install the software yourself 
 
 <a href="https://www.virtualbox.org/wiki/Downloads"><img src="https://github.com/user-attachments/assets/ed49af36-1b5c-44d3-b9df-4ebfe148e32a"></a>
-
+##
 Step 2:
 Download The Ubuntu and Kali-Linux ISO image.
 
@@ -34,7 +34,7 @@ Kali-Linux:
 <a href="https://www.kali.org/get-kali/#kali-installer-images"><img src="https://github.com/user-attachments/assets/8e975e6b-6306-4b07-abd9-7d58f5612214" width="600" height="350"></a>
 
 for Kali-Linux you will need to choose the installer Version.
-
+##
 Step 3:
 Create your virtual machihnes.
 
@@ -58,7 +58,7 @@ Once you've made your hardware selections, you can now configure your virtual ha
 After completing the steps above, you'll reach a summary of the VM settings where you can review your choices before finalizing them. Clicking "Finish" will boot-up of your VM. Depending on the ISO image you selected, you will proceed to set up your new operating system and create a user on the VM.
 
 ![vm creator 4](https://github.com/user-attachments/assets/565885f9-27c7-4645-835d-0d12f7ddefe8)
-
+##
 Step 4:
 Update and upgrade your VM.
 
@@ -76,7 +76,7 @@ Click on this button.
 
  Give your snapshot a name, typically something like "baseline 1," and a brief description if needed.Click "Ok" to confirm and complete the snapshot creation process.
 By taking this snapshot, you capture the current state of your VM post-update. This snapshot serves as a baseline reference, enabling you to revert to this stable state if necessary.
-
+##
 Step 5:
 Configure your network settings
 
