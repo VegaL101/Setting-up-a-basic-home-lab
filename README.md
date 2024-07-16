@@ -38,16 +38,16 @@ for Kali-Linux you will need to choose the installer Version.
 Step 3:
 Create your virtual machihnes.
 
-Here, we will begin creating your virtual machines. first, when you open virtual box you should be presented with the screen below. 
+Here, we will begin creating your virtual machines. first, when you open virtual box you should be presented with the screen below.
+you will then click on machine on the top left corner and then click new to get started.
 
 ![virtualbox menu](https://github.com/user-attachments/assets/cbe41dc7-3f33-4570-b570-b63cc8b8829d)
-<br>you will then click on machine on the top left corner and then click new to get started.
-
 
 Next the screen below will pop up. Here, you can name your virtual machine and select the ISO image you want to use for that VM.
+Once you are done with that you click next and the following screen will appear.
 
 ![vm creator](https://github.com/user-attachments/assets/3e8aa435-d0b0-400a-9a3e-37543320e72e)
-<br>Once you are done with that you click next and the following screen will appear.
+
 
 
 ![vm creator 3](https://github.com/user-attachments/assets/9f9d58f3-a522-4190-8112-bfa7c0198ced)
