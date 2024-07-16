@@ -59,12 +59,6 @@ After completing the steps above, you'll reach a summary of the VM settings wher
 
 ![vm creator 4](https://github.com/user-attachments/assets/565885f9-27c7-4645-835d-0d12f7ddefe8)
 
-
-
-
-
-
-
 Step 4:
 Update and upgrade your VM.
 
@@ -73,6 +67,14 @@ This will ensure that your system's package lists are updated (sudo apt update).
 
 ![ubuntu update](https://github.com/user-attachments/assets/addd36ff-4cab-41b6-a78b-c987533dd2e6)
 
+Step 5:
+Configure your network settings
+
+In this next step we will configure the appropriate network settings to tailor to your needs.
+
+Next  you will click on the VM you wanna configure the network for and click on settings to 
+
+![kali nat network](https://github.com/user-attachments/assets/a5e6ad43-ec99-4aac-b4de-023b51d2b4ff)
 
 
 ## Summary
