@@ -35,7 +35,7 @@ Ubuntu:
 
 Kali-Linux:
 
-<a href="https://www.kali.org/get-kali/#kali-installer-images"><img src="https://github.com/user-attachments/assets/1b6242e3-a873-4a28-807f-0fd206bacd8c" width="600" height="400"></a>
+<a href="https://www.kali.org/get-kali/#kali-installer-images"><img src="https://github.com/user-attachments/assets/8e975e6b-6306-4b07-abd9-7d58f5612214" width="600" height="400"></a>
 
 
 below, I changed permissions in the “other” group of characters in file “project_k.txt” and took away the write (w) permissions as that can pose a security risk. I did this by inputting the chmod command with the first argument (o-w) which will take away permissions from the second argument which is the file you want permissions changed.
