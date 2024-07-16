@@ -43,12 +43,12 @@ you will then click on machine on the top left corner and then click new to get 
 
 ![virtualbox menu](https://github.com/user-attachments/assets/cbe41dc7-3f33-4570-b570-b63cc8b8829d)
 
-Next the screen below will pop up. Here, you can name your virtual machine and select the ISO image you want to use for that VM.
-Once you are done with that you click next and the following screen will appear.
+Then, the screen below will pop up. Here, you can name your virtual machine and select the ISO image you want to use for that VM.
+Once you are done with that you can proceed and click next.
 
 ![vm creator](https://github.com/user-attachments/assets/3e8aa435-d0b0-400a-9a3e-37543320e72e)
 
-
+After clicking next, you can configure your virtual hardisk (storage thats tied to your VM). You can configure the size of the virtual hard disk, use an existing virtual hard disk file (sharing it with the hard disk of another VM), or not add one at all. 
 
 ![vm creator 3](https://github.com/user-attachments/assets/9f9d58f3-a522-4190-8112-bfa7c0198ced)
 <br>Here you
