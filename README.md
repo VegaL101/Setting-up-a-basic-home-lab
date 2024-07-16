@@ -16,13 +16,9 @@ The objective of this project is to set up a basic home lab so that you may test
 Step 1:
 Downlaod and install VirtualBox.
 
-VirtualBox allows you create and run multiple virtual machines (VMs) simultaneously on a single physical computer. Clicking the image below will you take you to their website so you may download and install the software yourself 
+VirtualBox allows you create and run multiple virtual machines (VMs) simultaneously on a single physical computer. Clicking the image below will direct you to their website so you may download and install the software yourself 
 
-<a href="https://www.virtualbox.org/wiki/Downloads">![virtual box](https://github.com/user-attachments/assets/b3395578-653e-4109-b868-6272013de321))</a>
-
-<a href="https://www.virtualbox.org/wiki/Downloads">
-
-
+<a href="https://www.virtualbox.org/wiki/Downloads"><img src="https://github.com/user-attachments/assets/ed49af36-1b5c-44d3-b9df-4ebfe148e32a"></a>
 
 Step 2:
 Download The Ubuntu and Kali-Linux ISO image.
