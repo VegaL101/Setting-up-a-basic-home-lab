@@ -97,7 +97,7 @@ By default, VMs are set to use NAT, which is good for basic tasks like testing t
 However, NAT Network additionally allows VMs to communicate with each other. <br>One thing to note is that using these network settings for analyzing malware is not recommended, as it can potentially harm your host machine. For safe analysis, it is recommended to use an "Internal Network" or set the VM to "Not Attached" (no network) to isolate it completely.
 
 ## Summary
-Multiple permissions have been changed to reflect the level of authority the organization intended for. Firstly, I checked file permissions with  ls -la which showed a list of permissions before any changes were made which was needed so that updates to permissions can be made.  Write permissions for other on file project_k.txt have been taken away.  Write permissions for user and group have been removed and read permissions for group have been added for hidden file .project_x.txt. Execute permissions for group have been taken away from directory drafts so that only researcher2 has access to it.
+Upon completing the steps above, you will have successfully created a home lab environment ready for testing and learning. Throughout this project, we effectively installed all necessary components to create and update our VM, established a baseline configuration, and configured network settings to suit specific needs. This setup provides a solid framework for experimentation and understanding the workings of various technologies within a controlled environment.
 
 
 
