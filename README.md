@@ -40,7 +40,13 @@ Create your virtual machihnes.
 
 Here, we will begin creating your virtual machines. first, when you open virtual box you should be presented with the screen below. 
 
-![virtualbox menu](https://github.com/user-attachments/assets/d86b24e7-5b45-47f9-a39c-05c7cfcf68b7)
+![virtualbox menu](https://github.com/user-attachments/assets/cbe41dc7-3f33-4570-b570-b63cc8b8829d)
+
+you will then click on machine on the top left corner and then click new to get started.
+
+Next the screen below will pop up. Here, you can name your virtual machine and select the ISO image you want to use for that VM. 
+
+![vm creator](https://github.com/user-attachments/assets/3e8aa435-d0b0-400a-9a3e-37543320e72e)
 
 
 Step 4:
