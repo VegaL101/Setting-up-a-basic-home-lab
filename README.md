@@ -30,9 +30,11 @@ Download The Ubuntu and Kali-Linux ISO image.
 A ISO image is typically used for installing a operating system in a computer. We will be using the Ubuntu and the Kali-Linux ISO image to create virtual machines with these operating systems. The images below will direct you to their respective websites, where you can download them.
 
 Ubuntu:
+
 <a href="https://ubuntu.com/download/desktop#how-to-install"><img src="https://github.com/user-attachments/assets/93922b10-cbbf-4581-91f5-4f6f359706dc" width="600" height="400"></a>
 
 Kali-Linux:
+
 <a href="https://www.kali.org/get-kali/#kali-installer-images"><img src="https://github.com/user-attachments/assets/1b6242e3-a873-4a28-807f-0fd206bacd8c" width="600" height="400"></a>
 
 
