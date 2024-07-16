@@ -20,9 +20,9 @@ VirtualBox allows you create and run multiple virtual machines (VMs) simultaneou
 
 <a href="https://www.virtualbox.org/wiki/Downloads">![virtual box](https://github.com/user-attachments/assets/b3395578-653e-4109-b868-6272013de321))</a>
 
+<a href="https://www.virtualbox.org/wiki/Downloads"></a>
 
-You will wanna pick the correct platform depending on your system. Once you have downloaded virtualBox into your system you will proceed to install the application as you would for any other application. 
-The permissions string decides who is allowed to read ,write and execute files in the projects directory. The characters r=read, w=write, and x=execute are used as the permissions as above.
+
 
 Step 2:
 Download The Ubuntu and Kali-Linux ISO image.
