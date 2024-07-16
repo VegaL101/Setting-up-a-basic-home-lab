@@ -43,8 +43,7 @@ you will then click on "machine" on the top left corner and then click "new" to 
 
 ![virtualbox menu](https://github.com/user-attachments/assets/cbe41dc7-3f33-4570-b570-b63cc8b8829d)
 
-Then, the screen below will pop up. Here, you can name your virtual machine and select the ISO image you want to use for that VM.
-Once you are done with that you can proceed and click "next".
+Then, the screen below will pop up. Here, you can name your virtual machine and select the ISO image you want to use for that VM. Make sure you click "skip unattended installation". Once you are done with that you can proceed and click "next".
 
 ![vm creator](https://github.com/user-attachments/assets/3e8aa435-d0b0-400a-9a3e-37543320e72e)
 
@@ -56,7 +55,7 @@ Once you've made your hardware selections, you can now configure your virtual ha
 
 ![vm creator 3](https://github.com/user-attachments/assets/9f9d58f3-a522-4190-8112-bfa7c0198ced)
 
-Once you have completed all of the above you will reach a summary of the VM settings. Here you can review your choices and finalize them. Once you click  
+After completing the steps above, you'll reach a summary of the VM settings where you can review your choices before finalizing them. Clicking "Finish" will boot-up of your VM. Depending on the ISO image you selected, you will proceed to set up your new operating system and create a user on the VM.
 
 ![vm creator 4](https://github.com/user-attachments/assets/565885f9-27c7-4645-835d-0d12f7ddefe8)
 
