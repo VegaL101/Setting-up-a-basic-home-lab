@@ -36,6 +36,7 @@ Ubuntu:
 Kali-Linux:
 
 <a href="https://www.kali.org/get-kali/#kali-installer-images"><img src="https://github.com/user-attachments/assets/8e975e6b-6306-4b07-abd9-7d58f5612214" width="600" height="350"></a>
+
 for Kali-Linux you are gonna choose the installer Version.
 
 
