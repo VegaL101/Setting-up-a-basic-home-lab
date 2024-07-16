@@ -66,11 +66,14 @@ After completing the steps above, you'll reach a summary of the VM settings wher
 
 
 Step 4:
-Change directory permissions.
+Update and upgrade your VM.
 
-Next, I had to change the drafts directory permissions so only researcher2 had access to it. I realized that the group had the execute permissions. So I input the chmod command to take them away (g-x) as seen above.
+Once you've opened your VM and are ready to start, one of the first essential tasks is to update your system. To do this, open a terminal and enter the following command: 'sudo apt update && sudo apt upgrade -y'.
+This will ensure that your system's package lists are updated (sudo apt update). In the next segment the command proceeds to upgrade all installed packages to their latest versions (sudo apt upgrade -y). You can input this command in both Kali - Linux and Ubuntu.
 
-![permissions4](https://github.com/VegaL101/File-permissions-lab./assets/166334918/b297a9a2-3b2b-4bb4-a678-d0f1b0d6af38)
+![ubuntu update](https://github.com/user-attachments/assets/addd36ff-4cab-41b6-a78b-c987533dd2e6)
+
+
 
 ## Summary
 Multiple permissions have been changed to reflect the level of authority the organization intended for. Firstly, I checked file permissions with  ls -la which showed a list of permissions before any changes were made which was needed so that updates to permissions can be made.  Write permissions for other on file project_k.txt have been taken away.  Write permissions for user and group have been removed and read permissions for group have been added for hidden file .project_x.txt. Execute permissions for group have been taken away from directory drafts so that only researcher2 has access to it.
