@@ -70,9 +70,23 @@ This will ensure that your system's package lists are updated (sudo apt update).
 Step 5:
 Configure your network settings
 
-In this next step we will configure the appropriate network settings to tailor to your needs.
 
-Next  you will click on the VM you wanna configure the network for and click on settings to 
+In this step, we will configure the network settings to suit your needs. As an example, we will set up a NAT network.
+
+ first, click on "File," then navigate to "Tools" and select "Network Manager." Choose "NAT Network" from the options presented. Your screen should resemble the image depicted below. Next, right-click to create a new NAT Network configuration. This setup allows you to tailor network settings to your specific needs, ensuring your virtual environment is configured appropriately.
+
+![kali nat network](https://github.com/user-attachments/assets/1bfaa7c8-db27-427d-8e9b-e70a5e2db9ca)
+
+Next we will configure network settings for your desired virtual machine (VM), follow these steps:
+
+Click on the VM you want to configure, then navigate to "Settings" and select "Network."
+
+In the Network settings,choose the dropdown menu labeled "Attached to". Click on it and select "NAT Network" to change your VM's network configuration to NAT Network.
+Next, click on the dropdown menu labeled "Name" and choose The NAT Network you created earlier .
+By default, VMs are set to use NAT, which is good for basic tasks like testing tools. Both NAT and NAT Network configurations provide internet access through the host machine's network connection.
+However, NAT Network additionally allows VMs to communicate with each other, which can be useful in certain scenarios.
+
+one thing to note is that using these network settings for analyzing malware is not recommended, as it can potentially harm your host machine. For safe analysis, it is recommended to use an "Internal Network" or set the VM to "Not Attached" (no network) to isolate it completely from external networks.
 
 ![kali nat network](https://github.com/user-attachments/assets/a5e6ad43-ec99-4aac-b4de-023b51d2b4ff)
 
