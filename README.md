@@ -42,7 +42,7 @@ Here, we will begin creating your virtual machines. first, when you open virtual
 you will then click on "machine" on the top left corner and then click "new" to get started.
 
 ![virtualbox menu](https://github.com/user-attachments/assets/cbe41dc7-3f33-4570-b570-b63cc8b8829d)
-
+##
 Then, the screen below will pop up. Here, you can name your virtual machine and select the ISO image you want to use for that VM. Make sure you click "skip unattended installation". Once you are done with that you can proceed and click "next".
 
 ![vm creator](https://github.com/user-attachments/assets/3e8aa435-d0b0-400a-9a3e-37543320e72e)
