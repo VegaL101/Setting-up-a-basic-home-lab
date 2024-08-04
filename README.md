@@ -23,7 +23,7 @@ VirtualBox allows you create and run multiple virtual machines (VMs) simultaneou
 Step 2:
 Download The Ubuntu and Kali-Linux ISO image.
 
-A ISO image is typically used for installing a operating system in a computer. We will be using the Ubuntu and the Kali-Linux ISO image to create virtual machines with these operating systems. The images below will direct you to their respective websites, where you can download them.
+An ISO image is commonly used to install an operating system on a computer. In this case, we'll be using Ubuntu and Kali Linux ISO images to set up virtual machines with these operating systems. By clicking on the images below, you'll be directed to their respective websites where you can download the images.
 
 Ubuntu:
 
