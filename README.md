@@ -63,10 +63,12 @@ Step 4:
 Update and upgrade your VM.
 
 Once you've opened your VM and are ready to start, one of the first essential tasks is to update your system. To do this, open a terminal and enter the following command: 'sudo apt update && sudo apt upgrade -y'.
-This will ensure that your system's package lists are updated (sudo apt update). In the next segment the command proceeds to upgrade all installed packages to their latest versions (sudo apt upgrade -y). You can input this command in both Kali - Linux and Ubuntu.
-
+This will ensure that your system's package lists are updated (sudo apt update). In the next segment the command proceeds to upgrade all installed packages to their latest versions (sudo apt upgrade -y). You can input this command in both Kali - Linux and Ubuntu. 
 ![ubuntu update](https://github.com/user-attachments/assets/addd36ff-4cab-41b6-a78b-c987533dd2e6)
 
+You will also need this final command only for Ubuntu. This will install any essential updates for Ubuntu.
+
+![ubuntu tools](https://github.com/user-attachments/assets/4d7ffa67-7418-4b97-8ce9-69c9ca33e02e)
 
 Once you have updated your VM, it's imprtant to create your first snapshot to establish a baseline. Baselines are pivotal for monitoring performance, troubleshooting issues, managing changes effectively, and serving various other purposes. They ensure stability and efficiency for your VM.
 To take a snapshot you are gonna have to Select your desired VM and locate the "Take" button at the top, resembling a camera icon.
