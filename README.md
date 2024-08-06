@@ -69,7 +69,7 @@ This will ensure that your system's package lists are updated (sudo apt update).
 You will also need this final command only for Ubuntu. This will install any essential updates for Ubuntu.
 
 ![ubuntu tools](https://github.com/user-attachments/assets/4d7ffa67-7418-4b97-8ce9-69c9ca33e02e)
-
+##
 Once you have updated your VM, it's imprtant to create your first snapshot to establish a baseline. Baselines are pivotal for monitoring performance, troubleshooting issues, managing changes effectively, and serving various other purposes. They ensure stability and efficiency for your VM.
 To take a snapshot you are gonna have to Select your desired VM and locate the "Take" button at the top, resembling a camera icon.
 Click on this button.
